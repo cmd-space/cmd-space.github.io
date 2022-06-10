@@ -7,48 +7,48 @@
       {
         "type": "image/png",
         "sizes": "192x192",
-        "src": "/images/icons/logo-192.png"
+        "src": "/images/logo-192.png"
       },
       {
         "type": "image/png",
         "sizes": "48x48",
-        "src": "/images/icons/logo-48.png"
+        "src": "/images/logo-48.png"
       },
       {
         "type": "image/png",
         "sizes": "72x72",
-        "src": "/images/icons/logo-72.png"
+        "src": "/images/logo-72.png"
       },
       {
         "type": "image/png",
         "sizes": "128x128",
-        "src": "/images/icons/logo-128.png"
+        "src": "/images/logo-128.png"
       },
       {
         "type": "image/png",
         "sizes": "384x384",
-        "src": "/images/icons/logo-384.png"
+        "src": "/images/logo-384.png"
       },
       {
         "type": "image/png",
         "sizes": "512x512",
-        "src": "/images/icons/logo-512.png"
+        "src": "/images/logo-512.png"
       },
       {
         "type": "image/png",
         "sizes": "96x96",
-        "src": "/images/icons/logo-96.png"
+        "src": "/images/logo-96.png"
       },
       {
         "type": "image/png",
         "sizes": "1024x1024",
-        "src": "/images/icons/maskable-1024.png",
+        "src": "/images/maskable-1024.png",
         "purpose": "maskable"
       }
     ],
     "theme_color": "#282c34",
-    "background_color": "#282c34",
-    "description": "A PWA markdown editor",
-    "categories": ["productivity", "utilities"]
+    "background_color": "#ffffff",
+    "description": "Behavior Tracker",
+    "categories":  ["utilities"]
   }
   
